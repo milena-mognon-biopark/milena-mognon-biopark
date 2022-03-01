@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou a Milena! 👋</h1>
-<h3 align="center">Essa conta é destinada exclusivamente ao trabalho. Para ver o meu repositório pessoal acesse [aqui](https://github.com/milena-mognon)</h3>
+<h3 align="center">Essa conta é destinada exclusivamente ao trabalho. Para ver o meu repositório pessoal acesse https://github.com/milena-mognon</h3>
 
 ## Linguagens e Ferramentas
 
